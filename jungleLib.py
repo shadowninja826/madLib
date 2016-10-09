@@ -1,8 +1,7 @@
-
 print('welcome to mablibs by soda')
 name1 = input("Enter a name: ")
 name2 = input("Enter another name: ")
-#noun1 = input("Enter a noun: ")
+noun1 = input("Enter a noun: ")
 #place1 = input("Enter a place: ")
 country1 = input("Enter a country: ")
 adjective1 = input("Enter a adjective: ")
