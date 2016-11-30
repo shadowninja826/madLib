@@ -1,4 +1,4 @@
-print('welcome to mablibs by soda')
+print('welcome to mablibs by shadowninja826')
 name1 = input("Enter a name: ")
 name2 = input("Enter another name: ")
 #noun1 = input("Enter a noun: ")
